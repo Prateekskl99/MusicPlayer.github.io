@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Maven Pro',sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 1.8rem;     /* 1rem = 16px and rem-"root em" */
+    color: #444;
+    padding: 30px 0px;
+}
+
+main
+{
+    width: 90%;
+    height: 550px;
+    margin: auto; border: 1.5px solid black;
+    display: flex; justify-content: space-around;
+    align-items: center; flex-wrap: wrap;
+}
+
+div
+{
+    width: 30%;height: 160px;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px; cursor: pointer;
+}
+
+main .a.song
+{
+    background-image: url('images/a.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .b.song
+{
+    background-image: url('images/b.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .c.song
+{
+    background-image: url('images/c.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .d.song
+{
+    background-image: url('images/d.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .e.song
+{
+    background-image: url('images/e.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .f.song
+{
+    background-image: url('images/f.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .g.song
+{
+    background-image: url('images/g.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .h.song
+{
+    background-image: url('images/h.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+main .i.song
+{
+    background-image: url('images/i.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-indent: -99999px;
+}
+
+
+
+
